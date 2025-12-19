@@ -19,5 +19,3 @@ Each folder corresponds to a LeetCode problem and contains:
 - ✅ Optimized solution
 - ⏱️ Runtime & memory performance (as reported by LeetCode)
 - 🧠 Clean and readable code
-
-Example:
